@@ -1,3 +1,5 @@
+# CLASSE CarroPremium: Representa um veículo de luxo
+# METODOS: __init__ (dados) e __str__ (texto formatado no print)
 class CarroPremium:
     def __init__(self, marca, modelo):
         self.marca = marca

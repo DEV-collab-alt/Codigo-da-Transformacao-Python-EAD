@@ -1,3 +1,6 @@
+# CLASSE: carro 
+# CLASSE Carro: Cria e gerencia dados de veículos gerais
+# CLASSE CarroEletrico: Herda de Carro e adiciona bateria
 class Carro:
     def __init__(self, marca, modelo):
         self.marca = marca
